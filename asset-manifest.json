@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gif-portal/static/css/main.cc854734.chunk.css",
+    "main.js": "/gif-portal/static/js/main.a00630b5.chunk.js",
+    "main.js.map": "/gif-portal/static/js/main.a00630b5.chunk.js.map",
+    "runtime-main.js": "/gif-portal/static/js/runtime-main.067eaedc.js",
+    "runtime-main.js.map": "/gif-portal/static/js/runtime-main.067eaedc.js.map",
+    "static/js/2.afcd4673.chunk.js": "/gif-portal/static/js/2.afcd4673.chunk.js",
+    "static/js/2.afcd4673.chunk.js.map": "/gif-portal/static/js/2.afcd4673.chunk.js.map",
+    "index.html": "/gif-portal/index.html",
+    "static/css/main.cc854734.chunk.css.map": "/gif-portal/static/css/main.cc854734.chunk.css.map",
+    "static/js/2.afcd4673.chunk.js.LICENSE.txt": "/gif-portal/static/js/2.afcd4673.chunk.js.LICENSE.txt",
+    "static/media/coin.99e6800f.svg": "/gif-portal/static/media/coin.99e6800f.svg",
+    "static/media/dislike.5bb86779.svg": "/gif-portal/static/media/dislike.5bb86779.svg",
+    "static/media/like.35a23236.svg": "/gif-portal/static/media/like.35a23236.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.067eaedc.js",
+    "static/js/2.afcd4673.chunk.js",
+    "static/css/main.cc854734.chunk.css",
+    "static/js/main.a00630b5.chunk.js"
+  ]
+}
